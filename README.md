@@ -114,4 +114,4 @@ Priyadharshini Ramakrishnan
 Data Analytics
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_overview.png)
+![Dashboard Preview](dashboard_overview.png)
